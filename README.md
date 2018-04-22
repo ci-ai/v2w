@@ -2,6 +2,7 @@
 
 * [flutter](https://github.com/Solido/awesome-flutter)
 * [Ionic](https://github.com/Alexintosh/Awesome-Ionic)
+* [ionic2tutorial](http://ionic2tutorial.com/)
 
 
 ## CodePath Code Samples

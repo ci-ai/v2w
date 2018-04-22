@@ -1,8 +1,7 @@
 
 
-### awesome flutter
-
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
+* [Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
 
 
 ## CodePath Code Samples

@@ -4,6 +4,7 @@
 * [flutter](https://github.com/Solido/awesome-flutter)
 * [Ionic](https://github.com/Alexintosh/Awesome-Ionic)
 * [ionic2tutorial](http://ionic2tutorial.com/)
+* [UI/UX Clone in React Native](https://github.com/hkxicor/uber-clone-react-native)
 
 
 ## CodePath Code Samples

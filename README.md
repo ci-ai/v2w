@@ -6,7 +6,7 @@
 * [ionic2tutorial](http://ionic2tutorial.com/)
 * [UI/UX Clone in React Native](https://github.com/hkxicor/uber-clone-react-native)
 * [landing-pages-resources](https://github.com/eibrahim/landing-pages-resources#user-experience-testing-and-optimization-tools)
-
+* [startbootstrap-lp](https://github.com/BlackrockDigital/startbootstrap-landing-page)
 
 ## CodePath Code Samples
 

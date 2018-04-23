@@ -5,6 +5,7 @@
 * [Ionic](https://github.com/Alexintosh/Awesome-Ionic)
 * [ionic2tutorial](http://ionic2tutorial.com/)
 * [UI/UX Clone in React Native](https://github.com/hkxicor/uber-clone-react-native)
+* [landing-pages-resources](https://github.com/eibrahim/landing-pages-resources#user-experience-testing-and-optimization-tools)
 
 
 ## CodePath Code Samples

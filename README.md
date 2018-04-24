@@ -8,6 +8,7 @@
 * [landing-pages-resources](https://github.com/eibrahim/landing-pages-resources#user-experience-testing-and-optimization-tools)
 * [startbootstrap-lp](https://github.com/BlackrockDigital/startbootstrap-landing-page)
 
+
 ## CodePath Code Samples
 
 * [Beginner Android Samples](https://github.com/codepath/intro_android_demo)
@@ -40,6 +41,7 @@
 * [Easyweather](https://github.com/DanPrado/easyweather) - Retrofit + Dagger 2 + RxJava
 
 ## Open-Source Apps
+
 
 * [Tivi](https://github.com/chrisbanes/tivi) - Great open-source Kotlin + RxJava 2 + Architecture Sample
 * [FOSSDroid](http://fossdroid.com/) - Open-source android apps repository

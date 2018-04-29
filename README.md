@@ -18,6 +18,7 @@ RN
 * [The beginners guide to React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
 * [mern](http://mern.io/)
 * [yeoman](http://yeoman.io/)
+* [react-native/showcase](http://facebook.github.io/react-native/showcase.html)
 ------------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

@@ -15,7 +15,7 @@ RN
 * [f8app](https://github.com/fbsamples/f8app)
 * [ignite](https://github.com/infinitered/ignite)
 * [decoide](https://www.decoide.org/)
-
+* [The beginners guide to React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
 ------------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

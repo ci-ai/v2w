@@ -22,6 +22,7 @@ RN
 * [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)
 * [ReactNativeSampleApp](https://github.com/taskrabbit/ReactNativeSampleApp)
 * [exponent](https://expo.io/learn)
+* [prettier](https://github.com/prettier/prettier)
 
 ------------------
 

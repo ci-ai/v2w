@@ -17,6 +17,7 @@ RN
 * [decoide](https://www.decoide.org/)
 * [The beginners guide to React Native and Firebase](https://firebase.googleblog.com/2016/01/the-beginners-guide-to-react-native-and_84.html)
 * [mern](http://mern.io/)
+* [yeoman](http://yeoman.io/)
 ------------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

@@ -19,6 +19,7 @@ RN
 * [mern](http://mern.io/)
 * [yeoman](http://yeoman.io/)
 * [react-native/showcase](http://facebook.github.io/react-native/showcase.html)
+* [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)
 ------------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

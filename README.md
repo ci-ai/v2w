@@ -24,6 +24,8 @@ RN
 * [exponent](https://expo.io/learn)
 * [prettier](https://github.com/prettier/prettier)
 * [flexboxfroggy](https://flexboxfroggy.com/)
+* [RNTester](https://github.com/facebook/react-native/tree/master/RNTester/RNTester)
+
 
 ------------------
 

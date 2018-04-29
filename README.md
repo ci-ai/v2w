@@ -10,6 +10,7 @@ RN
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 * [nativebase](https://nativebase.io/)
 * [tcomb-form-native](https://github.com/gcanti/tcomb-form-native)
+* [react-native-elements](https://github.com/react-native-training/react-native-elements)
 
 
 ------------------

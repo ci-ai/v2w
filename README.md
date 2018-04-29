@@ -21,6 +21,7 @@ RN
 * [react-native/showcase](http://facebook.github.io/react-native/showcase.html)
 * [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)
 * [ReactNativeSampleApp](https://github.com/taskrabbit/ReactNativeSampleApp)
+* [exponent](https://expo.io/learn)
 
 ------------------
 

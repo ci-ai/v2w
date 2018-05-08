@@ -38,7 +38,7 @@ RN
 * [landing-pages-resources](https://github.com/eibrahim/landing-pages-resources#user-experience-testing-and-optimization-tools)
 * [startbootstrap-lp](https://github.com/BlackrockDigital/startbootstrap-landing-page)
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
-
+* [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 
 ## CodePath Code Samples
 

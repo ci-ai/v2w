@@ -40,7 +40,7 @@ RN
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 * [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui)
-
+* [MasterAndroidArchitecture](https://github.com/MasterStudio/MasterAndroidArchitecture)
 
 
 ## CodePath Code Samples

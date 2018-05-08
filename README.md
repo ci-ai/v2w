@@ -42,6 +42,7 @@ RN
 * [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 * [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui)
 * [MasterAndroidArchitecture](https://github.com/MasterStudio/MasterAndroidArchitecture)
+* [awesome-ios](https://github.com/vsouza/awesome-ios)
 
 
 ## CodePath Code Samples

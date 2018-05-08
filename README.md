@@ -45,6 +45,7 @@ RN
 * [MasterAndroidArchitecture](https://github.com/MasterStudio/MasterAndroidArchitecture)
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
 * [7-ios-open-source-libraries-to-skyrocket-your-development](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c)
+* [39-open-source-swift-ui-libraries-for-ios-app-development](https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f)
 
 ## CodePath Code Samples
 

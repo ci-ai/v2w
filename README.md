@@ -28,6 +28,7 @@ RN
 * [apollo-server](https://github.com/apollographql/apollo-server)
 * [awesome-rn](https://github.com/jondot/awesome-react-native)
 * [awesome-android](https://github.com/JStumpp/awesome-android)
+* [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
 
 ------------------
 

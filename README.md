@@ -37,6 +37,7 @@ RN
 * [UI/UX Clone in React Native](https://github.com/hkxicor/uber-clone-react-native)
 * [landing-pages-resources](https://github.com/eibrahim/landing-pages-resources#user-experience-testing-and-optimization-tools)
 * [startbootstrap-lp](https://github.com/BlackrockDigital/startbootstrap-landing-page)
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
 
 ## CodePath Code Samples
@@ -186,6 +187,7 @@ RN
 * [iosched: The Google I/O 2017 Android App. ★15,197](https://github.com/google/iosched?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 * [Apps-android-wikipedia: The official Wikipedia Android open source app. ★600](https://github.com/wikimedia/apps-android-wikipedia?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
 
 
 #### Weather

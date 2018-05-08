@@ -27,7 +27,7 @@ RN
 * [RNTester](https://github.com/facebook/react-native/tree/master/RNTester/RNTester)
 * [apollo-server](https://github.com/apollographql/apollo-server)
 * [awesome-rn](https://github.com/jondot/awesome-react-native)
-
+* [awesome-android](https://github.com/JStumpp/awesome-android)
 
 ------------------
 

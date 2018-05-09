@@ -31,7 +31,7 @@ RN
 * [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 * [navigation-toolbar-android](https://github.com/Ramotion/navigation-toolbar-android)
-
+* [conference-app-2018](https://github.com/DroidKaigi/conference-app-2018)
 ------------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

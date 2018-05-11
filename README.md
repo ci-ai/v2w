@@ -55,6 +55,8 @@ rest/graphql/api
 * [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter)
 * [django-rest-framework](https://github.com/encode/django-rest-framework)
 * [prisma](https://github.com/graphcool/prisma)
+* [apollo-client](https://github.com/apollographql/apollo-client)
+
 ------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

@@ -52,6 +52,7 @@ rest/graphql/api
 * [Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server)
 * [public-apis](https://github.com/toddmotto/public-apis)
 * [json-server](https://github.com/typicode/json-server)
+* [kong](https://github.com/Kong/kong)
 ------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

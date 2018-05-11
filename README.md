@@ -37,9 +37,19 @@ RN
 
 rest/graphql/api
 
+* [automatic-api)](https://github.com/dbohdan/automatic-api)
 * [awesome-rest](https://github.com/marmelab/awesome-rest)
 * [awesome-api](https://github.com/Kikobeats/awesome-api)
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+* [postgrest](https://github.com/PostgREST/postgrest)
+* [django-rest-framework](https://github.com/encode/django-rest-framework)
+* [react-admin](https://github.com/marmelab/react-admin)
+* [api-platform](https://github.com/api-platform/api-platform)
+* [goa](https://github.com/goadesign/goa)
+* [go-restful](https://github.com/emicklei/go-restful)
+* [rest.js](https://github.com/octokit/rest.js)
+* [Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server)
+
 
 ------------
 

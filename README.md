@@ -32,6 +32,7 @@ RN
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 * [navigation-toolbar-android](https://github.com/Ramotion/navigation-toolbar-android)
 * [conference-app-2018](https://github.com/DroidKaigi/conference-app-2018)
+* [react-in-patterns](https://github.com/krasimir/react-in-patterns)
 
 ------------------
 

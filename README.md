@@ -49,7 +49,7 @@ rest/graphql/api
 * [go-restful](https://github.com/emicklei/go-restful)
 * [rest.js](https://github.com/octokit/rest.js)
 * [Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server)
-
+* [public-apis](https://github.com/toddmotto/public-apis)
 
 ------------
 

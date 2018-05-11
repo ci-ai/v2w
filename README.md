@@ -58,6 +58,7 @@ rest/graphql/api
 * [prisma](https://github.com/graphcool/prisma)
 * [apollo-client](https://github.com/apollographql/apollo-client)
 * [learnapollo](https://github.com/learnapollo/learnapollo)
+* [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql)
 
 ------------
 

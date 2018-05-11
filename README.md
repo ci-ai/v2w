@@ -56,6 +56,7 @@ rest/graphql/api
 * [django-rest-framework](https://github.com/encode/django-rest-framework)
 * [prisma](https://github.com/graphcool/prisma)
 * [apollo-client](https://github.com/apollographql/apollo-client)
+* [learnapollo](https://github.com/learnapollo/learnapollo)
 
 ------------
 

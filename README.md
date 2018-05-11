@@ -43,7 +43,6 @@ rest/graphql/api
 * [awesome-api](https://github.com/Kikobeats/awesome-api)
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 * [postgrest](https://github.com/PostgREST/postgrest)
-* [django-rest-framework](https://github.com/encode/django-rest-framework)
 * [react-admin](https://github.com/marmelab/react-admin)
 * [api-platform](https://github.com/api-platform/api-platform)
 * [goa](https://github.com/goadesign/goa)
@@ -53,6 +52,9 @@ rest/graphql/api
 * [public-apis](https://github.com/toddmotto/public-apis)
 * [json-server](https://github.com/typicode/json-server)
 * [kong](https://github.com/Kong/kong)
+* [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter)
+* [django-rest-framework](https://github.com/encode/django-rest-framework)
+
 ------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

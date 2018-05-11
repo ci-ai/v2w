@@ -32,7 +32,16 @@ RN
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 * [navigation-toolbar-android](https://github.com/Ramotion/navigation-toolbar-android)
 * [conference-app-2018](https://github.com/DroidKaigi/conference-app-2018)
+
 ------------------
+
+rest/graphql/api
+
+* [awesome-rest](https://github.com/marmelab/awesome-rest)
+* [awesome-api](https://github.com/Kikobeats/awesome-api)
+* [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+
+------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)
 * [Ionic](https://github.com/Alexintosh/Awesome-Ionic)

@@ -50,7 +50,7 @@ rest/graphql/api
 * [rest.js](https://github.com/octokit/rest.js)
 * [Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server)
 * [public-apis](https://github.com/toddmotto/public-apis)
-
+* [json-server](https://github.com/typicode/json-server)
 ------------
 
 * [flutter](https://github.com/Solido/awesome-flutter)

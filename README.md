@@ -76,6 +76,7 @@ rest/graphql/api
 * [7-ios-open-source-libraries-to-skyrocket-your-development](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c)
 * [39-open-source-swift-ui-libraries-for-ios-app-development](https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f)
 * [mbaas-shoot-out-5-cloud-platforms-for-building-mobile-apps](https://www.infoworld.com/article/2842791/application-development/mbaas-shoot-out-5-cloud-platforms-for-building-mobile-apps.html)
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 ## CodePath Code Samples
 

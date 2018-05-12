@@ -82,6 +82,7 @@ rest/graphql/api
 
 ----------
 
+* [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 * [search-federation-architecture-at-linkedin](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
 * [Creating Video Sharing on LinkedIn](https://engineering.linkedin.com/blog/2017/08/creating-video-sharing-on-linkedin--how-the-engineering-team-per)
 * [Rethinking Endorsements Infrastructure, Part 1
@@ -111,10 +112,25 @@ rest/graphql/api
 * [Bringing Storylines to Your Feed
 ](https://engineering.linkedin.com/blog/2017/03/bringing-storylines-feed)
 * [Personalized Recommendations in LinkedIn Learning](https://engineering.linkedin.com/blog/2016/12/personalized-recommendations-in-linkedin-learning)
-* []()
-* []()
-* []()
-* []()
+* [Engineering Infrastructure at Scale: Overview](https://engineering.linkedin.com/blog/2016/10/engineering-infrastructure-at-scale--overview)
+* [Instant Messaging at LinkedIn: Scaling to Hundreds of Thousands of Persistent Connections on One Machine](https://engineering.linkedin.com/blog/2016/10/instant-messaging-at-linkedin--scaling-to-hundreds-of-thousands-)
+* [Building Conversion Tracking at LinkedIn
+](https://engineering.linkedin.com/blog/2016/09/conversion_tracking)
+* [Serving Ads Beyond LinkedIn via Real-time Bidding](https://engineering.linkedin.com/blog/2016/08/serving-ads-beyond-linkedin-via-real-time-bidding)
+* [Building a Native Video Player Library for Android](https://engineering.linkedin.com/blog/2016/08/building-a-native-video-player-library-for-android)
+* [Building the New Job Detail Page](https://engineering.linkedin.com/blog/2016/06/building-the-new-job-detail-page)
+* [Voices: a Text Analytics Platform for Understanding Member Feedback](https://engineering.linkedin.com/blog/2016/06/voices--a-text-analytics-platform-for-understanding-member-feedb)
+* [Kafka Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin)
+* [The LinkedIn Android Data Pipeline](https://engineering.linkedin.com/blog/2016/03/the-linkedin-android-data-pipeline)
+* [3x3: Speeding Up Mobile Releases](https://engineering.linkedin.com/blog/2016/02/3x3--speeding-up-mobile-releases)
+* [How We Built LinkedIn Placements](https://engineering.linkedin.com/blog/2016/01/how-we-built-linkedin-placements)
+* [Android Performance Improvements for Slideshare](https://engineering.linkedin.com/blog/2015/11/slideshare-android-performance-improvements)
+* [Grokking Usage of API Data: Augmenting LinkedIn User and Partner Experience](https://engineering.linkedin.com/blog/2015/10/grokking-usage-of-api-data--augmenting-linkedin-user-and-partner)
+* [LinkedIn Lite: A Lightweight Mobile Web Experience](https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience)
+* [Scaling Decision-Making Across Teams within LinkedIn Engineering](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
+* [Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js
+](https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs)
+
 
 ## CodePath Code Samples
 

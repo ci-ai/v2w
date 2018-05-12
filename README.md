@@ -78,6 +78,13 @@ rest/graphql/api
 * [mbaas-shoot-out-5-cloud-platforms-for-building-mobile-apps](https://www.infoworld.com/article/2842791/application-development/mbaas-shoot-out-5-cloud-platforms-for-building-mobile-apps.html)
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
+
+
+----------
+
+* [search-federation-architecture-at-linkedin](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
+
+
 ## CodePath Code Samples
 
 * [Beginner Android Samples](https://github.com/codepath/intro_android_demo)

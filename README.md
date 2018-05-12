@@ -131,6 +131,7 @@ rest/graphql/api
 * [Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js
 ](https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs)
 * [Box Graph: how we built a spontaneous social network](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
+* [Resiliency in Distributed Systems](https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4)
 
 ## CodePath Code Samples
 

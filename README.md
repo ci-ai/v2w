@@ -90,6 +90,9 @@ rest/graphql/api
 * [A Look Behind the AI that Powers LinkedIn’s Feed: Sifting through Billions of Conversations to Create Personalized News Feeds for Hundreds of Millions of Members
 ](https://engineering.linkedin.com/blog/2018/03/a-look-behind-the-ai-that-powers-linkedins-feed--sifting-through)
 * [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)
+* [Building Smart Replies for Member Messages](https://engineering.linkedin.com/blog/2017/10/building-smart-replies-for-member-messages)
+* [Now You See Me, Now You Don’t: LinkedIn’s Real-Time Presence Platform](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
+
 
 
 ## CodePath Code Samples

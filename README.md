@@ -95,7 +95,25 @@ rest/graphql/api
 * [statistical-modeling-for-linkedin-salary](https://engineering.linkedin.com/blog/2017/12/statistical-modeling-for-linkedin-salary)
 * [Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
 * [Improving Resiliency and Stability of a Large-scale Monolithic API Service](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
-
+* [Incremental Data Capture for Oracle Databases at LinkedIn: Then and Now](https://engineering.linkedin.com/blog/2017/11/incremental-data-capture-for-oracle-databases-at-linkedin--then-)
+* [Serving Top Comments in Professional Social Networks](https://engineering.linkedin.com/blog/2017/09/serving-top-comments-in-professional-social-networks)
+* [JARVIS: Helping LinkedIn Navigate its Source Code](https://engineering.linkedin.com/blog/2017/08/jarvis--helping-linkedin-navigate-its-source-code)
+* [Scaling Contextual Conversation Suggestions Over 500 Million Members
+](https://engineering.linkedin.com/blog/2017/08/scaling-contextual-conversation-suggestions-over-linkedins-graph)
+* [The TCP Tortoise: Optimizations for Emerging Markets](https://engineering.linkedin.com/blog/2017/08/the-tcp-tortoise--optimizations-for-emerging-markets)
+* [Building the Activity Graph, Part 2](https://engineering.linkedin.com/blog/2017/07/building-the-activity-graph--part-2)
+* [Site Speed Monitoring in A/B Testing and Feature Ramp-up](https://engineering.linkedin.com/blog/2017/06/site-speed-monitoring-in-a-b-testing-and-feature-ramp-up)
+* [Building the Activity Graph, Part I](https://engineering.linkedin.com/blog/2017/06/building-the-activity-graph--part-i)
+* [Mobile Crash Reporting at LinkedIn](https://engineering.linkedin.com/blog/2017/05/mobile-crash-reporting-at-linkedin)
+* [Implementing Instant Job Listing Pages](https://engineering.linkedin.com/blog/2017/04/implementing-instant-job-listing-pages)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ## CodePath Code Samples
 

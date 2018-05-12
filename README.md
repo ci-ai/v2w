@@ -87,6 +87,10 @@ rest/graphql/api
 * [Rethinking Endorsements Infrastructure, Part 1
 ](https://engineering.linkedin.com/blog/2016/09/rethinking-endorsements-infrastructure--part-2--the-new-endorsem)
 * [Rethinking Endorsements Infrastructure, Part 2: The New Endorsements Infrastructure](https://engineering.linkedin.com/blog/2016/09/rethinking-endorsements-infrastructure--part-2--the-new-endorsem)
+* [A Look Behind the AI that Powers LinkedIn’s Feed: Sifting through Billions of Conversations to Create Personalized News Feeds for Hundreds of Millions of Members
+](https://engineering.linkedin.com/blog/2018/03/a-look-behind-the-ai-that-powers-linkedins-feed--sifting-through)
+* [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)
+
 
 ## CodePath Code Samples
 

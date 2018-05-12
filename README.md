@@ -92,7 +92,9 @@ rest/graphql/api
 * [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)
 * [Building Smart Replies for Member Messages](https://engineering.linkedin.com/blog/2017/10/building-smart-replies-for-member-messages)
 * [Now You See Me, Now You Don’t: LinkedIn’s Real-Time Presence Platform](https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
-
+* [statistical-modeling-for-linkedin-salary](https://engineering.linkedin.com/blog/2017/12/statistical-modeling-for-linkedin-salary)
+* [Couchbase Ecosystem at LinkedIn](https://engineering.linkedin.com/blog/2017/12/couchbase-ecosystem-at-linkedin)
+* [Improving Resiliency and Stability of a Large-scale Monolithic API Service](https://engineering.linkedin.com/blog/2017/11/improving-resiliency-and-stability-of-a-large-scale-api)
 
 
 ## CodePath Code Samples

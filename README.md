@@ -84,6 +84,9 @@ rest/graphql/api
 
 * [search-federation-architecture-at-linkedin](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
 * [Creating Video Sharing on LinkedIn](https://engineering.linkedin.com/blog/2017/08/creating-video-sharing-on-linkedin--how-the-engineering-team-per)
+* [Rethinking Endorsements Infrastructure, Part 1
+](https://engineering.linkedin.com/blog/2016/09/rethinking-endorsements-infrastructure--part-2--the-new-endorsem)
+* [Rethinking Endorsements Infrastructure, Part 2: The New Endorsements Infrastructure](https://engineering.linkedin.com/blog/2016/09/rethinking-endorsements-infrastructure--part-2--the-new-endorsem)
 
 ## CodePath Code Samples
 

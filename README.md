@@ -83,6 +83,7 @@ rest/graphql/api
 ----------
 
 * [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+* [Engineering Infrastructure at Scale: Overview](https://engineering.linkedin.com/blog/2016/10/engineering-infrastructure-at-scale--overview)
 * [search-federation-architecture-at-linkedin](https://engineering.linkedin.com/blog/2018/03/search-federation-architecture-at-linkedin)
 * [Creating Video Sharing on LinkedIn](https://engineering.linkedin.com/blog/2017/08/creating-video-sharing-on-linkedin--how-the-engineering-team-per)
 * [Rethinking Endorsements Infrastructure, Part 1
@@ -112,7 +113,6 @@ rest/graphql/api
 * [Bringing Storylines to Your Feed
 ](https://engineering.linkedin.com/blog/2017/03/bringing-storylines-feed)
 * [Personalized Recommendations in LinkedIn Learning](https://engineering.linkedin.com/blog/2016/12/personalized-recommendations-in-linkedin-learning)
-* [Engineering Infrastructure at Scale: Overview](https://engineering.linkedin.com/blog/2016/10/engineering-infrastructure-at-scale--overview)
 * [Instant Messaging at LinkedIn: Scaling to Hundreds of Thousands of Persistent Connections on One Machine](https://engineering.linkedin.com/blog/2016/10/instant-messaging-at-linkedin--scaling-to-hundreds-of-thousands-)
 * [Building Conversion Tracking at LinkedIn
 ](https://engineering.linkedin.com/blog/2016/09/conversion_tracking)

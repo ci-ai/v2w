@@ -133,6 +133,9 @@ rest/graphql/api
 * [Box Graph: how we built a spontaneous social network](https://blog.box.com/blog/box-graph-how-we-built-spontaneous-social-network/)
 * [Resiliency in Distributed Systems](https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4)
 
+----------
+![36063546](https://user-images.githubusercontent.com/1587005/36063546-21c3a540-0e33-11e8-9fa4-1a1e5e9a6537.png)
+
 ## CodePath Code Samples
 
 * [Beginner Android Samples](https://github.com/codepath/intro_android_demo)

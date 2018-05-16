@@ -61,7 +61,7 @@ rest/graphql/api
 * [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql)
 
 ------------
-
+* [awesome-flutter](https://github.com/Solido/awesome-flutter)
 * [flutter](https://github.com/Solido/awesome-flutter)
 * [Ionic](https://github.com/Alexintosh/Awesome-Ionic)
 * [ionic2tutorial](http://ionic2tutorial.com/)

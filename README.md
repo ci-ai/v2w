@@ -81,6 +81,7 @@ rest/graphql/api
 * [material-components-android](https://github.com/material-components/material-components-android)
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+* [incubator-dubbo-spring-boot-project](https://github.com/apache/incubator-dubbo-spring-boot-project)
 
 ----------
 

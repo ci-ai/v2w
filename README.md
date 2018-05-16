@@ -82,7 +82,7 @@ rest/graphql/api
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 * [incubator-dubbo-spring-boot-project](https://github.com/apache/incubator-dubbo-spring-boot-project)
-
+* [java-rest-api-tutorials](https://github.com/eugenp/tutorials)
 ----------
 
 * [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)

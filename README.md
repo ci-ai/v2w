@@ -80,7 +80,7 @@ rest/graphql/api
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 * [material-components-android](https://github.com/material-components/material-components-android)
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
-
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 ----------
 

@@ -37,6 +37,8 @@ RN
 * [react-firebase-starter](https://github.com/kriasoft/react-firebase-starter)
 * [material-ui](https://github.com/mui-org/material-ui)
 * [FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android)
+* [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
+
 ------------------
 
 rest/graphql/api

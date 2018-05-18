@@ -63,6 +63,7 @@ rest/graphql/api
 * [apollo-client](https://github.com/apollographql/apollo-client)
 * [learnapollo](https://github.com/learnapollo/learnapollo)
 * [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql)
+* [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
 
 ------------
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)

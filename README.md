@@ -36,6 +36,7 @@ RN
 * [react-in-patterns](https://github.com/krasimir/react-in-patterns)
 * [react-firebase-starter](https://github.com/kriasoft/react-firebase-starter)
 * [material-ui](https://github.com/mui-org/material-ui)
+* [FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android)
 ------------------
 
 rest/graphql/api

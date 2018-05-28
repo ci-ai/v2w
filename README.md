@@ -89,6 +89,8 @@ rest/graphql/api
 * [incubator-dubbo-spring-boot-project](https://github.com/apache/incubator-dubbo-spring-boot-project)
 * [java-rest-api-tutorials](https://github.com/eugenp/tutorials)
 * [awesome-vue](https://github.com/vuejs/awesome-vue)
+* [android-sunflower](https://github.com/googlesamples/android-sunflower)
+
 ----------
 
 * [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)

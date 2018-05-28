@@ -67,6 +67,7 @@ rest/graphql/api
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Winds](https://github.com/GetStream/Winds)
 * [fastlane](https://github.com/fastlane/fastlane)
+* [redux-offline](https://github.com/redux-offline/redux-offline)
 
 ------------
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)

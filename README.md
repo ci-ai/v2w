@@ -65,6 +65,7 @@ rest/graphql/api
 * [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql)
 * [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [Winds](https://github.com/GetStream/Winds)
 
 ------------
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)

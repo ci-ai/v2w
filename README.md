@@ -68,6 +68,7 @@ rest/graphql/api
 * [Winds](https://github.com/GetStream/Winds)
 * [fastlane](https://github.com/fastlane/fastlane)
 * [redux-offline](https://github.com/redux-offline/redux-offline)
+* [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 
 ------------
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)

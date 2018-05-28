@@ -46,7 +46,9 @@ RN
 
 rest/graphql/api
 
+
 * [services-engineering](https://github.com/mmcgrana/services-engineering)
+* [serverless-offline](https://github.com/dherault/serverless-offline)
 * [automatic-api)](https://github.com/dbohdan/automatic-api)
 * [awesome-rest](https://github.com/marmelab/awesome-rest)
 * [awesome-api](https://github.com/Kikobeats/awesome-api)

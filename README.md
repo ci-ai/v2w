@@ -79,6 +79,7 @@ rest/graphql/api
 * [redux-offline](https://github.com/redux-offline/redux-offline)
 * [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 * [react-color](https://github.com/casesandberg/react-color)
+* [react-grid-layout](https://github.com/STRML/react-grid-layout)
 
 ------------
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)

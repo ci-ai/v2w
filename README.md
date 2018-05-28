@@ -39,6 +39,8 @@ RN
 * [FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android)
 * [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
 * [ant-design](https://github.com/ant-design/ant-design)
+* [real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps)
+
 ------------------
 
 rest/graphql/api

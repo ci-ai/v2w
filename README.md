@@ -66,6 +66,7 @@ rest/graphql/api
 * [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Winds](https://github.com/GetStream/Winds)
+* [fastlane](https://github.com/fastlane/fastlane)
 
 ------------
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)

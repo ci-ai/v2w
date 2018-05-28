@@ -46,6 +46,7 @@ RN
 
 rest/graphql/api
 
+* [services-engineering](https://github.com/mmcgrana/services-engineering)
 * [automatic-api)](https://github.com/dbohdan/automatic-api)
 * [awesome-rest](https://github.com/marmelab/awesome-rest)
 * [awesome-api](https://github.com/Kikobeats/awesome-api)

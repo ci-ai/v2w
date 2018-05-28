@@ -43,6 +43,7 @@ RN
 * [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)
 * [awesome-react-components](https://github.com/brillout/awesome-react-components)
 * [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
+* [react-google-maps](https://github.com/tomchentw/react-google-maps)
 
 ------------------
 

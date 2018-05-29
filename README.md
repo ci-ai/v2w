@@ -53,7 +53,7 @@ rest/graphql/api
 * [services-engineering](https://github.com/mmcgrana/services-engineering)
 * [serverless-offline](https://github.com/dherault/serverless-offline)
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-* [automatic-api)](https://github.com/dbohdan/automatic-api)
+* [automatic-api](https://github.com/dbohdan/automatic-api)
 * [awesome-rest](https://github.com/marmelab/awesome-rest)
 * [awesome-api](https://github.com/Kikobeats/awesome-api)
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql)

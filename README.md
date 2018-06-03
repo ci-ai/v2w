@@ -44,6 +44,7 @@ RN
 * [awesome-react-components](https://github.com/brillout/awesome-react-components)
 * [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
 * [react-google-maps](https://github.com/tomchentw/react-google-maps)
+* [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
 
 ------------------
 

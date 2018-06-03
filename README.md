@@ -45,6 +45,7 @@ RN
 * [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
 * [react-google-maps](https://github.com/tomchentw/react-google-maps)
 * [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
+* [react-ideal-image](https://github.com/stereobooster/react-ideal-image)
 
 ------------------
 

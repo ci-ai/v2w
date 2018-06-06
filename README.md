@@ -326,3 +326,36 @@ rest/graphql/api
 
 ------------------------
 
+### Conversational Interfaces & Chatbots
+* [API.ai](https://api.ai/) — advanced tools needed to build conversational user interfaces
+* [Chatfuel](https://chatfuel.com/) — build a Facebook chatbot without coding
+* [Comm.ai](http://comm.ai/) — add voice and chat API to websites and apps
+* [Conversica](https://www.conversica.com/) — conversational interfaces to help get more sales
+* [EDDI](http://eddi.labs.ai/) — create, test and deploy chatbots
+* [FPT AI Platform](https://fpt.ai/) — automated interaction with end-users
+* [Golem.ai](https://golem.ai) — natural language interpretation tool for developers
+* [Gong](https://www.gong.io/) — analyses and improves sales conversations and discovery calls
+* [Kasisto](http://kasisto.com/) — conversational AI platform for the finance industry
+* [KITT.AI](http://kitt.ai/) — create conversational agents using a visual interface
+* [Maluuba](http://www.maluuba.com/) — teaching machines to think, reason and communicate
+* [Massively](http://massively.ai/) — build chatbots for business
+* [Meya](https://meya.ai/) — build, train and host bots in one platform
+* [MindMeld](https://www.mindmeld.com/) — improved version of Siri
+* [Motion AI](https://www.motion.ai/) — chat bots made easy
+* [msg.ai](http://txt.ai/index.html#home) — chatbot with management dashboard
+* [Octane AI](https://octaneai.com/) — marketing automation for messaging
+* [OpenAI Gym](https://gym.openai.com/) — open source interface to reinforcement learning tasks
+* [Orbit](https://orbit.ai) — tools to help to help automate conversational AI
+* [Pool](https://pool.ai/) — personal assistant that helps you get more work done
+* [Recast](https://recast.ai/) — collaborative platform to build, train, deploy intelligent bots
+* [Reply.ai](https://www.reply.ai/) — platform to build and manage your conversational strategy
+* [Semantic Machines](http://www.semanticmachines.com/) — conversational AI for work, travel, shop and play
+* [Snips](https://snips.ai/) — add a voice Assistant to your connected product
+* [Servo](http://servo.ai/) — full spectrum bot and voice which integrates with existing systems
+* [UNU.ai](http://unu.ai/) — using the Swarm Intelligence (group brainpower) for chatbots
+* [Unify](http://www.unify.ai/) — e-commerce chatbot
+* [uTu](https://utu.ai/) — multi-channel bot analytics and data management
+* [Wechaty](https://github.com/Chatie/wechaty) - Wechaty is a Bot Framework for Wechat Personal Account which can help you create a bot
+* [Wit.ai](https://wit.ai/) — easily create text or voice based bots for preferred platform
+* [Wysh](https://wysh.ai/) — enterprise scale chatbot with payment methods
+* [Zero AI](http://zero.ai/) — voice interface that understands meaning, intent and context

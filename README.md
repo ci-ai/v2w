@@ -84,6 +84,8 @@ rest/graphql/api
 * [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 * [react-color](https://github.com/casesandberg/react-color)
 * [react-grid-layout](https://github.com/STRML/react-grid-layout)
+- [instagram-scraper](https://github.com/meetmangukiya/instagram-scraper)
+- [material-dashboard](https://github.com/creativetimofficial/material-dashboard)
 
 ------------
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)

@@ -87,8 +87,10 @@ rest/graphql/api
 - [instagram-scraper](https://github.com/meetmangukiya/instagram-scraper)
 - [material-dashboard](https://github.com/creativetimofficial/material-dashboard)
 - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+- [Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit)
 
 ------------
+
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 * [flutter](https://github.com/Solido/awesome-flutter)
 * [Ionic](https://github.com/Alexintosh/Awesome-Ionic)

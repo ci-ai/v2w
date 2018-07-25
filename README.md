@@ -115,7 +115,7 @@ rest/graphql/api
 * [awesome-vue](https://github.com/vuejs/awesome-vue)
 * [android-sunflower](https://github.com/googlesamples/android-sunflower)
 * [15-tools-for-bulletproof-android-app-security](https://blog.aritraroy.in/15-tools-for-bulletproof-android-app-security-516bb8b1a8d5)
-
+- [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 ----------
 
 * [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
